@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="name">Your name</string>
+    <string name="surname">Your Surname</string>
+    <string name="age">Your Age</string>
+    <string name="next">next</string>
+    <string name="end">end</string>
+    <string name="save">save</string>
+</resources>
